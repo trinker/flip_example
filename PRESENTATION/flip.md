@@ -36,3 +36,20 @@ This is a Demonstration of [flip.css](http://davidwalsh.name/css-flip) designed 
 		</div>
 	</div>
 	<br /><br />
+	
+
+--- &twocol
+
+## An iframe Version ##
+
+*** =left
+
+The use of iframe     
+may be more reactive     
+and smoother.    
+
+*** =right
+
+<iframe src="http://trinker.github.io/card/" width="245" height="355">Your browser does not support iframes.</iframe>
+
+

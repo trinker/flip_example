@@ -39,3 +39,20 @@ This is a Demonstration of [flip.css](http://davidwalsh.name/css-flip) designed 
 		</div>
 	</div>
 	<br /><br />
+	
+
+--- &twocol
+
+## An iframe Version ##
+
+*** =left
+
+The use of iframe     
+may be more reactive     
+and smoother.    
+
+*** =right
+
+`r IF("http://trinker.github.io/card/", width=245, height=355, center=FALSE)`
+
+
