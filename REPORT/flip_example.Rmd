@@ -6,7 +6,7 @@
 <script type="text/javascript" src="./js/nhpup_1.1.js"></script>
 <script type="text/javascript" src="./js/reports.js"></script>
 
-# flip.js_example
+# flip.css Example
 ## Tyler Rinker
 ### `r as.character(format(Sys.Date(), format="%B %d, %Y"))`
 ```{r setup, include=FALSE}
@@ -17,7 +17,7 @@ library(reports); library(knitr); library(knitcitations)
 
 ---
 
-This is a Demonstration of [flip.js](http://davidwalsh.name/css-flip) designed by David Walsh.
+This is a Demonstration of [flip.css](http://davidwalsh.name/css-flip) designed by David Walsh.
 
 `r IM("http://james.brooks.so/uploads/interview/david_walsh.png", center=FALSE, width=90)`
 

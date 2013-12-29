@@ -6,7 +6,7 @@
 <script type="text/javascript" src="./js/nhpup_1.1.js"></script>
 <script type="text/javascript" src="./js/reports.js"></script>
 
-# flip.js_example
+# flip.css Example
 ## Tyler Rinker
 ### December 28, 2013
 
@@ -14,7 +14,7 @@
 
 ---
 
-This is a Demonstration of [flip.js](http://davidwalsh.name/css-flip) designed by David Walsh.
+This is a Demonstration of [flip.css](http://davidwalsh.name/css-flip) designed by David Walsh.
 
 <img src="http://james.brooks.so/uploads/interview/david_walsh.png" width="90" height="60">
 
