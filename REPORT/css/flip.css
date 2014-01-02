@@ -96,16 +96,3 @@
 	text-align: center;
 	padding: 0 20px;
 }
-
-input[type=checkbox]:checked ~ .front {
-    -webkit-transform: perspective(600px) rotateY(-180deg);
-    transform: perspective(600px) rotateY(-180deg);
-}
-input[type=checkbox]:checked ~ .back {
-    -webkit-transform: perspective(600px) rotateY(0deg);
-    transform: perspective(600px) rotateY(0deg);
-}
-
-input[type=checkbox] {
-    display:none;
-}
